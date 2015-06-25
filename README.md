@@ -1,4 +1,4 @@
-Spare-time
-==========
-
-A Symfony project created on June 24, 2015, 12:32 pm.
+# VarTypeValidator
+[![Build Status](https://travis-ci.org/Ajirass/VarTypeValidator.svg?branch=master)](https://travis-ci.org/Ajirass/VarTypeValidator)
+[![Code Coverage](https://scrutinizer-ci.com/g/Ajirass/VarTypeValidator/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Ajirass/VarTypeValidator/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Ajirass/Spare-time/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Ajirass/Spare-time/?branch=master)
